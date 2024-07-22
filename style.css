@@ -11,6 +11,7 @@
     --primary-color: #EB7300;
     --error-color: #ff0043;
     --equal-color: #EB8E00;
+    --success-color: #3AD200;
   }
   
   body {
@@ -120,6 +121,6 @@
   }
   
   .success {
-    border-color: var(--primary-color) !important;
-    color: var(--primary-color) !important;
+    border-color: var(--success-color) !important;
+    color: var(--success-color) !important;
   }
